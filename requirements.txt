@@ -1,0 +1,10 @@
+python-telegram-bot==20.3
+torch
+diffusers[torch]==0.19.1
+transformers
+accelerate
+gtts
+moviepy
+Pillow
+requests
+python-dotenv
