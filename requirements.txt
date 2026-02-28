@@ -6,5 +6,4 @@ accelerate
 gtts
 moviepy
 Pillow
-requests
 python-dotenv
